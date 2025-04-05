@@ -1,7 +1,5 @@
 """
 Nome: Italo de Sousa Batista
-Link do GitHub: 
-https://github.com/umbrella13/Prova-Subjetiva-CDL.git
 """
 # importando a biblioteca para manipulação de caminhos
 import os      
